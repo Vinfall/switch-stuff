@@ -1,0 +1,5 @@
+[Atelier Lulua: The Scion of Arland 1.0.7]
+
+[money 99999]
+04000000 0176C2F8 0001869F
+
