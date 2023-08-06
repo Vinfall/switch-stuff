@@ -5,5 +5,5 @@ There will be no intro about how to use them should you not bear the necessary k
 
 ## License
 
-Licensed under [GLWTPL](https://github.com/me-shaon/GLWTPL) (Good Luck With That Public License).
+Licensed under [GLWTPL](https://github.com/me-shaon/GLWTPL) (Good Luck With That Public License) unless otherwise noted.
 
